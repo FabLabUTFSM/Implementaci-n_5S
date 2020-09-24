@@ -1,4 +1,4 @@
-# Registro reuniones y avance Memoria 2 - Omar Zuñiga
+# Implementación_5S - Daniel Godoy
 
 ## 24-09 
 
@@ -13,6 +13,9 @@ Pía Osses
     - Objetivos y proyectos 2020
 - Explicar su rol (JT)
 - Explicar la forma de trabajo (JT)
-- Objetivos propios memorista (Omar)
+- Objetivos propios memorista (DG)
 
 ### Compromisos proxima reunión:  
+
+- Enviar tutorial git (JT)
+- Investigar sobre metodologias usadas en otros lab (DG)
