@@ -19,3 +19,10 @@ Pía Osses
 
 - Enviar tutorial git (JT)
 - Investigar sobre metodologias usadas en otros lab (DG)
+
+## 15-10
+JT y PO entregan un documento con [preguntas para la asignatura de mejora continua] (https://docs.google.com/document/d/18BhbgwodMQs4Rt87DCFF2JX0XnVLcyuJAOmWtdX4KNY/edit)
+
+### Compromisos
+- Investigar sobre las metodologias utilizadas por otros laboratorios universitarios para la implementacion de 5S (DG)
+- Unir estas metodologias con los protocolos de trabajo para reapertura post covid, respetando distanciamiento social (DG)
